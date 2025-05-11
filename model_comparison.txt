@@ -1,0 +1,11 @@
+Model Performance Comparison
+===============================
+
+Custom CNN Dogruluk: 0.5457
+Custom CNN Kayip: 3.3902
+
+Transfer Learning Dogruluk: 0.7360
+Transfer Learning Kayip: 1.7546
+
+Dogruluk Farki: 0.1904 (Transfer Learning daha iyi)
+Kayip Farki: 1.6356 (Transfer Learning daha iyi)

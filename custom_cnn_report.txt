@@ -1,0 +1,11 @@
+Custom CNN Classification Report:
+                  precision    recall  f1-score   support
+
+    glioma_tumor       1.00      0.07      0.13       100
+meningioma_tumor       0.52      0.70      0.60       115
+        no_tumor       0.49      0.92      0.64       105
+ pituitary_tumor       0.86      0.42      0.56        74
+
+        accuracy                           0.55       394
+       macro avg       0.72      0.53      0.48       394
+    weighted avg       0.70      0.55      0.48       394

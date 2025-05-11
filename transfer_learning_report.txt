@@ -1,0 +1,11 @@
+Transfer Learning Sýnýflandýrma Raporu:
+                  precision    recall  f1-score   support
+
+    glioma_tumor       1.00      0.22      0.36       100
+meningioma_tumor       0.68      0.91      0.78       115
+        no_tumor       0.66      1.00      0.80       105
+ pituitary_tumor       0.98      0.78      0.87        74
+
+        accuracy                           0.74       394
+       macro avg       0.83      0.73      0.70       394
+    weighted avg       0.81      0.74      0.70       394
